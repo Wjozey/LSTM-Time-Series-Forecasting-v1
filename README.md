@@ -1,8 +1,5 @@
 # LSTM-Time-Series-Forecasting-v1
 
 
-Forecasting of Milk Production. 
+LSTM forecasting with a sample sales dataset
 
-## Dataset
-
-Data from Nachi Hebbar
